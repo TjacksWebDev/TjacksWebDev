@@ -1,14 +1,41 @@
-##Hello there 👋, I'm Ty Jackson
+**Ty Jackson** | **Full Stack Software Developer**
 
-##Full Stack Software Developer (Java/JavaScript/Spring/Maven/Hibernate/SQL)
+**Java/JavaScript/Spring/Maven/Hibernate/SQL**
 
-🛠️ My technical toolbox includes Java, JavaScript, Spring, Maven, and Firebase Auth for robust security. I've built numerous full-stack web applications that have not only met but exceeded expectations. Quality is at the core of my work, and I rely on code testing to ensure top-notch performance and reliability.
+**About Me**
 
-🎨 Beyond coding, I have a keen eye for design and understand the importance of creating intuitive and visually appealing user interfaces. My front-end skills encompass HTML, CSS, and Tailwind CSS, allowing me to craft seamless user experiences.
+I'm Ty Jackson, a full-stack software developer with a passion for building high-quality, user-friendly web applications. I have a strong foundation in Java, JavaScript, Spring, Maven, and Hibernate, and I'm also skilled in front-end development with HTML, CSS, and Tailwind CSS. I'm also familiar with multiple databases and version control systems like Git.
 
-🛢️ My familiarity with multiple databases and version control systems like Git ensures a solid foundation for database management and collaborative development.
+**What I Can Do For You**
 
-🤝 If you're seeking a developer who can not only write exceptional code but also contribute to design and deliver results, I'd love to connect. Let's explore how my skills can help your organization achieve its goals.
+I can help you with all aspects of software development, from design and implementation to testing and deployment. I'm a highly motivated and results-oriented individual who is always looking for new challenges and opportunities to learn and grow.
+
+**Get in Touch**
+
+If you're looking for a skilled and reliable software developer, please reach out to me. I'd love to learn more about your project and how I can help you achieve your goals.
+
+**Contact:**
+
+[tyjackson@mail.com]
+[(https://www.linkedin.com/in/paula-ty-jackson/)]
+
+**Keywords:**
+
+* Full-stack software developer
+* Java
+* JavaScript
+* Spring
+* Maven
+* Hibernate
+* SQL
+* HTML
+* CSS
+* Tailwind CSS
+* Git
+
+**Call to Action:**
+
+If you're looking for a skilled and reliable software developer, please reach out to me. I'd love to learn more about your project and how I can help you achieve your goals.
 
 <!---
 TjacksWebDev/TjacksWebDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
