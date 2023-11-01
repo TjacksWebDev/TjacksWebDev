@@ -4,7 +4,7 @@
 
 **About Me**
 
-I'm Ty Jackson, a full-stack software developer with a passion for building high-quality, user-friendly web applications. I have a strong foundation in Java, JavaScript, Spring, Maven, and Hibernate, and I'm also skilled in front-end development with HTML, CSS, and Tailwind CSS. I'm also familiar with multiple databases and version control systems like Git.
+I'm Ty Jackson, a full-stack software developer with a passion for building high-quality, user-friendly web applications. I have a strong foundation in Java, JavaScript, Spring, Maven, and Hibernate, and I'm also skilled in front-end development with HTML, and CSS. I'm also familiar with multiple databases and version control systems like Git.
 
 **What I Can Do For You**
 
@@ -30,7 +30,6 @@ If you're looking for a skilled and reliable software developer, please reach ou
 * SQL
 * HTML
 * CSS
-* Tailwind CSS
 * Git
 
 **Call to Action:**
