@@ -1,7 +1,7 @@
 **Ty Jackson** | **Full Stack Software Developer**
-
+=============================================================================================================================================
 **Java/JavaScript/Spring/Maven/Hibernate/SQL**
-
+=============================================================================================================================================
 **About Me**
 
 I'm Ty Jackson, a full-stack software developer with a passion for building high-quality, user-friendly web applications. I have a strong foundation in Java, JavaScript, Spring, Maven, and Hibernate, and I'm also skilled in front-end development with HTML, and CSS. I'm also familiar with multiple databases and version control systems like Git.
