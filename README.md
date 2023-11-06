@@ -18,6 +18,10 @@ If you're looking for a skilled and reliable software developer, please reach ou
 
 **Contact:**
 
+ <!-- <a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>   -->
+<a href="https://www.linkedin.com/in/paula-ty-jackson//"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="28" height="28"/></a>
+<a href = "mailto: tyjackson@mail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
+
 [tyjackson@mail.com]
 [(https://www.linkedin.com/in/paula-ty-jackson/)]
 
