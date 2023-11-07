@@ -60,10 +60,8 @@ If you're looking for a skilled and reliable software developer, please reach ou
 ## 🛠️ Technologies & Tools
 
 ### Languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjackswebdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80" /></div>
-### Frameworks & Libraries
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TjacksWebDev)](https://github.com/anuraghazra/github-readme-stats)
+& Libraries
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
