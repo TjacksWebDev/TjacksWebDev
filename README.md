@@ -58,9 +58,10 @@ If you're looking for a skilled and reliable software developer, please reach ou
 -->
 
 ## 🛠️ Technologies & Tools
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TjacksWebDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TjacksWebDev)](https://github.com/anuraghazra/github-readme-stats)
+
 & Libraries
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
