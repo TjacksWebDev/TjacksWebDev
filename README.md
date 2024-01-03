@@ -20,7 +20,7 @@ If you're looking for a skilled and reliable software developer, please reach ou
 
  <!-- <a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>   -->
 <a href="https://www.linkedin.com/in/paula-ty-jackson//"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="28" height="28"/></a>
-<a href = "mailto: paulatyjackson@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
+<a href = "mailto: paulatyjackson@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=purple" target="_blank" ></a>
 
 [(https://www.linkedin.com/in/paula-ty-jackson/)]
 [paulatyjackson@yahoo.com]
@@ -44,7 +44,7 @@ If you're looking for a skilled and reliable software developer, please reach ou
 If you're looking for a skilled and reliable software developer, please reach out to me. I'd love to learn more about your project and how I can help you achieve your goals.
 ### Hi there, I'm Ty, nice to meet you! 👋
 
--  🧠 2023 Learning Goals: Working on Spring Boot, React, and Tailwind CSS skills.
+-  🧠 2024 Learning Goals: Working on Spring , React, and Hibernate skills.
 
 
 <!--
@@ -87,7 +87,7 @@ If you're looking for a skilled and reliable software developer, please reach ou
 
  <!-- <a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>   -->
 <a href="https://www.linkedin.com/in/paula-ty-jackson//"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="28" height="28"/></a>
-<a href = "mailto: tyjackson@mail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
+<a href = "mailto: paulatyjackson@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank" ></a>
 
   
 
